@@ -1,29 +1,33 @@
 # Hello, I'm Jerome
 <a href="https://www.linkedin.com/in/jerome-lodge-b464b1233/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction]
+<!--[Brief Introduction]-->
 
-I am recent graduate from specializing in Cybersecurity. Equipped with a solid foundation in network security, cryptography, and risk management. Passionate about defending against cyber threats and ensuring the integrity of digital systems. Eager to apply acquired skills and knowledge to contribute effectively in the ever-evolving landscape of cybersecurity."
+I am recent graduate specializing in Cybersecurity, equipped with a solid foundation in network security, cryptography, and risk management. Passionate about defending against cyber threats and ensuring the integrity of digital systems. Eager to apply acquired skills and knowledge to contribute effectively in the ever-evolving landscape of cybersecurity."
 
 ## Objective
-[Provide Objective]
+<!--[Provide Objective]-->
 
 My journey in the world of computer science, with a focus on cybersecurity, began with a fascination for technology and a drive to protect digital assets from evolving threats. My objective is to leverage my knowledge, skills, and experiences to contribute to the advancement of cybersecurity practices, ensuring the integrity and security of digital systems in an increasingly interconnected world and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+<!--[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]] -->
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| Analzying Date with using Splunk Technology    | Acitve Directory Lab|
+| System Monintoring with Sysmon and Attack Dectecton | Active Directory Lab| 
+<!--| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Scripting and Automation for Threat Mitigation | SOC Automation Lab|-->
+
+
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+<!--[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]-->
 
 ### Network
 <div>
@@ -46,15 +50,16 @@ My journey in the world of computer science, with a focus on cybersecurity, bega
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+<!--[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
-</div>
+<!-- <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" /> -->
+<!-- <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" /> -->
+<!-- <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" /> -->
+<!-- <img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" /> -->
+<!-- <img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" /> -->
+<!-- </div> -->
 
 ## Projects
-- Detection Lab
+- Acive Directory Lab
+<!-- - Detection Lab
 - SOC Automation Project
