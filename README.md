@@ -17,7 +17,7 @@ My journey in the world of computer science, with a focus on cybersecurity, bega
 |-----------------------------------------------|----------------------------|
 |  Analyzing Date with using Splunk Technology    | <a href="https://github.com/3RR0b0t/Active-Directory-Lab">Active Directive Lab</a>|
 | System Monitoring with Sysmon and Attack Detection | <a href="https://github.com/3RR0b0t/Active-Directory-Lab">Active Directive Lab</a>| 
-<!--| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
