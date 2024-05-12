@@ -61,5 +61,5 @@ My journey in the world of computer science, with a focus on cybersecurity, bega
 
 ## Projects
 -  <a href="https://github.com/3RR0b0t/Active-Directory-Lab">Active Directive Lab</a>
-<!-- - Detection Lab
-- SOC Automation Project
+<!-- - Detection Lab -->
+- <a href="https://github.com/3RR0b0t/SOC-Automation-Lab/tree/main">SOC Automation Lab</a>
