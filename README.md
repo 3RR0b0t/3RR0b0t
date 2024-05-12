@@ -3,7 +3,7 @@
 
 <!--[Brief Introduction]-->
 
-I am recent graduate specializing in Cybersecurity, equipped with a solid foundation in network security, cryptography, and risk management. Passionate about defending against cyber threats and ensuring the integrity of digital systems. Eager to apply acquired skills and knowledge to contribute effectively in the ever-evolving landscape of cybersecurity."
+I am recent graduate specializing in Cybersecurity, equipped with a solid foundation in network security, cryptography, and risk management. Passionate about defending against cyber threats and ensuring the integrity of digital systems. Eager to apply acquired skills and knowledge to contribute effectively in the ever-evolving landscape of cybersecurity.
 
 ## Objective
 <!--[Provide Objective]-->
@@ -15,8 +15,8 @@ My journey in the world of computer science, with a focus on cybersecurity, bega
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Analzying Date with using Splunk Technology    | <a href="https://github.com/3RR0b0t/Active-Directory-Lab">Active Directive Lab</a>|
-| System Monintoring with Sysmon and Attack Detecton | <a href="https://github.com/3RR0b0t/Active-Directory-Lab">Active Directive Lab</a>| 
+|  Analyzing Date with using Splunk Technology    | <a href="https://github.com/3RR0b0t/Active-Directory-Lab">Active Directive Lab</a>|
+| System Monitoring with Sysmon and Attack Detection | <a href="https://github.com/3RR0b0t/Active-Directory-Lab">Active Directive Lab</a>| 
 <!--| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
