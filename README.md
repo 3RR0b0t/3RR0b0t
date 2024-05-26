@@ -3,7 +3,7 @@
 
 <!--[Brief Introduction]-->
 
-I am recent graduate specializing in Cybersecurity, equipped with a solid foundation in network security, cryptography, and risk management. Passionate about defending against cyber threats and ensuring the integrity of digital systems. Eager to apply acquired skills and knowledge to contribute effectively in the ever-evolving landscape of cybersecurity.
+I am a recent graduate specializing in Cybersecurity, equipped with a solid foundation in network security, cryptography, and risk management. Passionate about defending against cyber threats and ensuring the integrity of digital systems. Eager to apply acquired skills and knowledge to contribute effectively in the ever-evolving landscape of cybersecurity.
 
 ## Objective
 <!--[Provide Objective]-->
